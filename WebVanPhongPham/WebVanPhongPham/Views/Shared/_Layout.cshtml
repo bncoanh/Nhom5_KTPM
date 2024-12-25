@@ -1,0 +1,195 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/Style.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Content/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="@Url.Content("~/Content/jquery-1.10.2.min.js")"></script>
+    <script type="text/javascript" src="@Url.Content("~/Content/jquery.unobtrusive-ajax.js")"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <div id="bar">
+        <div id="homemenu">
+            <nav class="navbar navbar-expand-lg navbar expand- light" style="background-color: #ffcd44">
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav mr-auto">
+                        <a href="@Url.Action("Sanpham", "SanPham")">
+                            <img src="~/Content/HinhAnh/logoWeb.jpg" style="width: 200px; height: 60px;" />
+                        </a>
+                        <li><a class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.ActionLink("Trang chủ", "Sanpham", "SanPham")</a></li>
+                        <li><a class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.ActionLink("Tin Tức", "TinTuc", "SanPham")</a></li>
+                        <li><a class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.ActionLink("Liên hệ", "LienHe", "SanPham")</a></li>
+                        <li><a id="DangNhap" class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.ActionLink("Đăng nhập", "DangNhap", "NguoiDung")</a></li>
+                        <li><a class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.ActionLink("Đăng ký", "DangKy", "NguoiDung")</a></li>
+                        <a class="nav-link" style="color:white;font-weight:bold;font-size:16px;" @Html.Action("GioHangPartial", "GioHang")</a>
+                    </ul>
+                    <div class="form-inline">
+                        @using (Html.BeginForm("TimKiem", "SanPham", FormMethod.Get))
+                        {
+
+                            <form class="form-inline my-2 my-lg-0">
+                                <input id="SearchString" name="SearchString" type="text" class="form-control mr-sm-2" placeholder="Tên sản phẩm, loại sản phẩm..." />
+                                <button class="btn btn-light" type="submit"><a style="color: black;">Tìm kiếm</a></button>
+                            </form>
+
+                        }
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </div>
+    <div class="container" style="background-color: #e9e4e4">
+        <div class="row">
+            <div class="col-md-3">
+                @Html.Action("Chude", "SanPham")
+            </div>
+            <div class="col-md-9" style="margin-top:20px;">
+                <div id="SlideshowImages">
+                    <div>
+                        <img src="~/Content/HinhAnh/1.jpg" style="width: 800px; height: 380px;" />
+                    </div>
+                    <div>
+                        <img src="~/Content/HinhAnh/img02.jpg" style="width: 800px; height: 380px;" />
+                    </div>
+                    <div>
+                        <img src="~/Content/HinhAnh/img03.jpg" style="width: 800px; height: 380px;" />
+                    </div>
+                </div>
+                <br />
+                @RenderBody()
+            </div>
+        </div>
+    </div>
+    <div style="background-color: #ffcd44; color: white;">
+        <footer id="footer">
+            <div class="wraper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-xs-24 col-sm-24 col-md-3">
+                            <div class="panel-body">
+                                <h3>Về Chúng Tôi</h3>
+                                <section>
+                                    <ul style="list-style: none; padding-left: 15px;">
+                                        <li><a>Các điều khoản & điều kiện</a></li>
+                                        <li><a>Chính sách bảo mật</a></li>
+                                        <li><a>Điều khoản sử dụng</a></li>
+                                        <li><a>Chính sách vận chuyển</a></li>
+                                        <li><a>Chính sách đổi trả hoàn tiền</a></li>
+                                    </ul>
+                                </section>
+                            </div>
+                        </div>
+                        <div class="col-xs-24 col-sm-24 col-md-3" style="margin-left: 140px">
+                            <div class="panel-body">
+                                <h3>Hỗ Trợ Khách Hàng</h3>
+                                <section>
+                                    <ul style="list-style: none; padding-left: 15px;">
+                                        <li>
+                                            <a style="color: red"><b>Hotline đặt hàng: 1800-6969</b></a><br />
+                                            (Miễn phí , 8-21h kể cả T7, CN)
+                                        </li>
+                                        <li>
+                                            <a style="color: red"><b>Hotline CSKH: 1900-6035</b></a><br />
+                                            (1000đ/phút, 8-21h kể cả T7, CN)
+                                        </li>
+                                        <li><a>Các câu hỏi thường gặp</a></li>
+                                        <li><a>Gửi yêu cầu hỗ trợ</a></li>
+                                        <li><a>Hướng dẫn đặt hàng</a></li>
+                                        <li>Hỗ trợ khách hàng: support@hufi.edu.vn</li>
+                                    </ul>
+                                </section>
+                            </div>
+                        </div>
+                        <div class="col-xs-24 col-sm-24 col-md-3" style="margin-left: 130px">
+                            <div style="width: 280px;" class="panel-body">
+                                <h3>Hợp Tác Và Liên Kết</h3>
+                                <section>
+                                    <ul style="list-style: none; padding-left: 15px;">
+                                        <li><span>Công Ty Bán Dụng Cụ Học Tập</span></li>
+                                        <li><em class="fa fa-map-marker"></em><span> Địa chỉ: 140 Lê Trọng Tân, P.Tây Thạnh, Q.Tân Phú, TP.HCM</span></li>
+                                        <li><em class="fa fa-phone"></em><span> Điện thoại: +84-123444789</span></li>
+                                        <li><em class="fa fa-envelope"></em><span> Email: info@hufi.edu.vn</span></li>
+                                    </ul>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+    @Scripts.Render("~/bundles/jquery")
+    <script src="~/Content/bootstrap/js/baseController.js"></script>
+    @RenderSection("scripts", required: false)
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#slideshow > div:gt(0)").hide();
+            setInterval(function () {
+                $('#SlideshowImages > div:first').fadeOut(2000).next().fadeIn(2000).end().appendTo('#SlideshowImages');
+            }, 3500);
+        });
+    </script>
+    <script type="text/javascript">
+        jQuery(document).ready(function ($) {
+            var $filter = $('#homemenu');
+            var $filterSpacer = $('<div />', {
+                "class": "vnkings-spacer",
+                "height": $filter.outerHeight()
+            });
+            if ($filter.size()) {
+                $(window).scroll(function () {
+                    if (!$filter.hasClass('fix') && $(window).scrollTop() > $filter.offset().top) {
+                        $filter.before($filterSpacer);
+                        $filter.addClass("fix");
+                    }
+                    else if ($filter.hasClass('fix') && $(window).scrollTop() < $filterSpacer.offset().top) {
+                        $filter.removeClass("fix");
+                        $filterSpacer.remove();
+                    }
+                });
+            }
+
+        });
+    </script>
+    @if (ViewBag.ThongBao != null)
+    {
+        <script type="text/javascript">
+            window.onload = function () {
+                this.alert("@ViewBag.ThongBao");
+            };
+        </script>
+    }
+   
+</body>
+
+</html>
+<style type="text/css" style="display: none !important;">
+    #homemenu.fix {
+        left: 0;
+        max-width: 100%;
+        overflow: visible;
+        position: fixed !important;
+        top: 0;
+        width: 100%;
+        z-index: 1000;
+    }
+
+    #SlideshowImages {
+        position: relative;
+        width: 800px;
+        height: 380px;
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    }
+
+        #SlideshowImages > div {
+            position: absolute;
+        }
+</style>

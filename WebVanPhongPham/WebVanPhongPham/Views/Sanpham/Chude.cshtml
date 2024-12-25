@@ -1,0 +1,10 @@
+﻿@model IEnumerable<WebVanPhongPham.Models.ChuDe>
+<p class="lead"><b>DANH SÁCH SẢN PHẨM</b></p>
+<div class="list-group">
+    @foreach (var item in Model)
+    {
+        <a style="color:black" href="@Url.Action("HienThiMenu", "SanPham", new {id=item.MaChuDe})" class="list-group-item">
+            @item.TenChuDe
+        </a>
+    }
+</div>

@@ -1,0 +1,20 @@
+﻿@model IEnumerable<WebVanPhongPham.Models.TinTuc>
+@{
+    ViewBag.Title = "Tin Tức";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<h2>TIN TỨC</h2>
+@foreach (var item in Model)
+{
+    <div>
+        <h5 style="color:red">@item.TieuDe</h5>
+    </div>
+    <div>
+        <img src="~/Content/HinhAnh/@item.HinhAnh" style="width:500px;height:260px;"/>
+    </div>
+    <div>
+        <h6>@item.TinTuc1</h6>
+    </div>
+    <br />
+
+}

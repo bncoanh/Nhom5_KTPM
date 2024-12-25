@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Xác Nhận Đơn Hàng";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h4>Đơn hàng của quý khách đã được chúng tôi ghi nhận. Chúng tôi sẽ liên hệ với quý khách trong thời gian sớm nhất và giao hàng đúng hẹn!</h4>
+<div id="text" style="border-radius:3px;padding-top:8px;padding-left:7px;background-color:#0c8dee;width:120px;height:38px;">
+    @Html.ActionLink("VỀ TRANG CHỦ", "Sanpham", "SanPham")
+</div>
+<br />
+<style>
+    #text a {
+        color:white;
+    }
+        #text a:hover {
+            text-decoration:none;
+            color:white;
+        }
+</style>

@@ -1,0 +1,54 @@
+﻿@{
+    ViewBag.Title = "Đăng nhập";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Đăng Nhập</title>
+    <link href="~/Content/Style.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<table style="width: auto;">
+            <tr style="height:40px">
+                <td><a id="textTitle"><b>ĐĂNG NHẬP</b></a></td>
+            </tr>
+            @using(Html.BeginForm())
+            {
+                @Html.ValidationSummary(true)
+            <tr style="height:40px">
+                <td>Tên đăng nhập: </td>
+                <td>@Html.TextBox("TenDN")
+                    @ViewData["Loi1"]
+                </td>
+            </tr>
+            <tr style="height:40px">
+                <td>Mật khẩu: </td>
+                <td>
+                    <input type="password" name="Matkhau"/>
+                    @ViewData["Loi2"]
+                </td>
+            </tr>
+            <tr style="height:40px">
+                 <td><input class="btn btn-outline-primary" type="submit" Value="Đăng nhập"/></td>
+            </tr>
+            }
+        </table>
+    <a>Chưa có tài khoản? 
+    <div id="text" style="border-radius:3px;padding-top:8px;padding-left:7px;width:120px;height:38px;">
+        @Html.ActionLink("Đăng ký", "DangKy", "NguoiDung")
+    </div></a>
+    @if(ViewBag.ThongBao != null)
+    {
+        <script type="text/javascript">
+            window.onload = function () {
+                this.alert("@ViewBag.ThongBao");
+            };
+        </script>
+    }
+    </body> 
+    <br />
+    <br />
+</html>

@@ -1,0 +1,55 @@
+﻿@{
+    ViewBag.Title = "Chi tiết";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<h2>THÔNG TIN CHI TIẾT SẢN PHẨM</h2>
+<html>
+<body>
+    <div class="row">
+        <div class="col-lg-4">
+            <img src="~/Content/HinhAnhSP/@Model.AnhBia" style="width:250px;height:250px;"/>
+        </div>
+        <div class="col-lg-8">
+            <div class="row">
+                <div class="col-lg-11">
+                    <div class="row" style="padding: 5px">
+                        <h4 style="color: red">Tên Sản Phẩm: @Model.TenSanPham</h4>
+                    </div>
+                    <div>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <a>(122 đánh giá)</a>
+                    </div>
+                    <div class="row" style="padding: 5px">
+                        <h6>Mô Tả: @Model.MoTa</h6>
+                    </div>
+                    <div class="row">
+                        <h4 style="color: red">Giá: @String.Format("{0:0,0}",Model.GiaBan) <u>đ</u></h4>
+                    </div>
+                    <div class="row" style="vertical-align:central; margin-bottom:100px">
+                        <button class="btn btn-danger">
+                            <a style="text-decoration: none" href="@Url.Action("ThemGioHang", "GioHang", new { @iMaSanPham = @Model.MaSanPham, @strURL = Request.Url.ToString() })">
+                                <span style="color: white;">Chọn mua</span>
+                            </a>
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+        <button class="btn btn-danger">
+            <a style="color:white;text-decoration:none"@Html.ActionLink("Quay lại mua tiếp", "Sanpham")</a> 
+        </button>
+    
+</body>
+</html>
+<style>
+    .checked {
+          color: orange;
+        }
+</style>
+

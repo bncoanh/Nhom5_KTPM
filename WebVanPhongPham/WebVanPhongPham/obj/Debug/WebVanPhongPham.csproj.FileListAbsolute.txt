@@ -1,0 +1,301 @@
+G:\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+G:\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+G:\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+G:\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+G:\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+G:\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+G:\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+G:\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csprojResolveAssemblyReference.cache
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+G:\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csprojAssemblyReference.cache
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csprojAssemblyReference.cache
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+C:\Users\My PC\Desktop\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+C:\Users\PrivateOnly\Downloads\WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csprojAssemblyReference.cache
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+C:\Users\PrivateOnly\Desktop\DoAn_KiemDinhChatLuongPM_Nhom1_WebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+E:\DoAn_KDCLPM_Nhom1_KiemThuWebVanPhongPham\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.AssemblyReference.cache
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+D:\Download\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.AssemblyReference.cache
+D:\Download\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+D:\Download\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CopyComplete
+D:\Download\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+D:\Download\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll.config
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\WebVanPhongPham.pdb
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\Antlr3.Runtime.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Infrastructure.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\PagedList.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Optimization.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Providers.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\WebGrease.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\PagedList.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\PagedList.Mvc.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\EntityFramework.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\Newtonsoft.Json.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Net.Http.Formatting.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Http.WebHost.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Mvc.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.Razor.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Deployment.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\bin\System.Web.WebPages.Razor.xml
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.AssemblyReference.cache
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.csproj.CoreCompileInputs.cache
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPh.1567CC3D.Up2Date
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.dll
+D:\KTPM\WebVanPhongPham\WebVanPhongPham\obj\Debug\WebVanPhongPham.pdb
